@@ -1,5 +1,5 @@
 # 2020 04-27 Git Basics class 
-
+..
 - init : create a git repository in current directory
 	 you should do this only once in a repository (i.e., no nested git repos)
 - status : tels you whats  going on with the current repository
