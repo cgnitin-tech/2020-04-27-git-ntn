@@ -10,4 +10,10 @@
 - log : look at all the commit history you have been doing
     - log --online : simple online log view
 - 'diff' : look at differencess between current status and what git knows
+-  'checkout' : moving our head 
+- 'HEAD' : place we are looking at right now on our computer
+
+- remote : This is the place where git repo is stored (ex: github)
+  - 'git remote add origin <url>' - to add repo to origin
+  - 'git push origin master' from our pc to remote (origin)
 
