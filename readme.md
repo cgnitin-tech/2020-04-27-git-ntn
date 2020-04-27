@@ -6,3 +6,4 @@
 - add : adds file to the staging area
 - commit : commits the changes to the repository
 	`commit -m` : it allows you to put message and bypass the editor
+	`commit -am" : it adds and commits the file at the same time"
