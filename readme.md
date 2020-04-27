@@ -11,6 +11,8 @@
     - log --online : simple online log view
 - 'diff' : look at differencess between current status and what git knows
 -  'checkout' : moving our head 
+   ' checkout <HASH> file' - moves HEAD to that <HASH> location
+	 'checkout master' - to move back to HASH
 - 'HEAD' : place we are looking at right now on our computer
 
 - remote : This is the place where git repo is stored (ex: github)
