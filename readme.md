@@ -7,3 +7,7 @@
 - commit : commits the changes to the repository
 	`commit -m` : it allows you to put message and bypass the editor
 	`commit -am" : it adds and commits the file at the same time"
+- log : look at all the commit history you have been doing
+    - log --online : simple online log view
+- 'diff' : look at differencess between current status and what git knows
+
